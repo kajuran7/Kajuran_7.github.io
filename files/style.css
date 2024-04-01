@@ -59,19 +59,27 @@ body {
 }
 
 /*home*/
-
+.nav2{
+    height: 3vh;
+    width: 100vw;
+}
 .home {
-    position: relative;
+    position: relative; 
     width: 100%;
+  
     justify-content: space-between;
     min-height: 100vh;
+    height: 150vh;
     background-size: cover;
+    background-image: url("../img/IMG-20240325-WA0016.jpg");
     /* background-color: ; */
-    background-image: url("../img/IMG-20240326-WA0020.jpg")no-repeat fixed center;
+    /* background-image: url("../img/IMG-20240326-WA0020.jpg")no-repeat fixed center; */
+
     background-position: center;
     display: flex;
     align-items: center;
-    padding: 70px 10% 0;
+    padding: 70px 10% 10%;
+
 }
 
 .home-content {
@@ -196,7 +204,7 @@ body {
     /*gap: 1.5rem;*/
     width: 100%;
     justify-content: space-between;
-    min-height: 100vh;
+    min-height: 50vh;
     padding: 70px 5% 0;
 }
 
@@ -396,15 +404,15 @@ body {
 }
 
 .progress-line.python span::after {
-    content: "75%";
+    content: "85%";
 }
 
 .progress-line.java span::after {
-    content: "50%";
+    content: "60%";
 }
 
 .progress-line.cpls span::after {
-    content: "50%";
+    content: "60%";
 }
 
 .progress-line span::before {
