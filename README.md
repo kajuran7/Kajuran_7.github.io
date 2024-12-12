@@ -4,7 +4,7 @@
 <h3 align="center">Ambitious student with a strong foundation in full-stack web development, passionate about UI/UX design, video editing, and freelancing. Based in 🇱🇰 Sri Lanka.</h3>
 
 - 👨‍💻 Recently completed the **Coding Accelerator Program** @ Uki Technology School, Jaffna.  
-- 🌱 Currently learning **Full-Stack Web Development**.  
+- 🌱 Currently learning **Full-Stack Web Development**, **Python and Data Science**, **Next.js**, and **TypeScript**.  
 - 🔧 Portfolio: [https://kajuran7.github.io/Kajuran_7.github.io/](https://kajuran7.github.io/Kajuran_7.github.io/).  
 - 💬 Ask me about **HTML, CSS, JavaScript, React, and more!**  
 - ✉️ How to reach me: **kajubass@gmail.com**.  
@@ -32,9 +32,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
-  </a>
+
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
   </a>
@@ -62,4 +60,15 @@
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
   </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40" height="40" />
+  </a>
 </p>
+
+---
